@@ -1,1 +1,1 @@
-# ds-training
+# datasciencecoursera
